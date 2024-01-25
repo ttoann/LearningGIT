@@ -1,0 +1,112 @@
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.csproj.AssemblyReference.cache
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan_Ly_Hoc_Sinh.FGiaoVien.resources
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan_Ly_Hoc_Sinh.FHocSinh.resources
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.csproj.GenerateResource.cache
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.GeneratedMSBuildEditorConfig.editorconfig
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.AssemblyInfoInputs.cache
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.AssemblyInfo.cs
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.csproj.CoreCompileInputs.cache
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.exe
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.dll.config
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.deps.json
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.runtimeconfig.json
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.pdb
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Azure.Core.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Azure.Identity.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.Memory.Data.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.csproj.CopyComplete
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\refint\Quan Ly Hoc Sinh.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.pdb
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.genruntimeconfig.cache
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\ref\Quan Ly Hoc Sinh.dll
+F:\Z_Education\University\Year\2nd Year\2nd Semester\Windows Programming\Week\W 2\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan_Ly_Hoc_Sinh.FLogin.resources
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.exe
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.dll.config
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.deps.json
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.runtimeconfig.json
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Quan Ly Hoc Sinh.pdb
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.csproj.AssemblyReference.cache
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan_Ly_Hoc_Sinh.FGiaoVien.resources
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan_Ly_Hoc_Sinh.FHocSinh.resources
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan_Ly_Hoc_Sinh.FLogin.resources
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.csproj.GenerateResource.cache
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.AssemblyInfoInputs.cache
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.AssemblyInfo.cs
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.csproj.CoreCompileInputs.cache
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.csproj.CopyComplete
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\refint\Quan Ly Hoc Sinh.dll
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.pdb
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\Quan Ly Hoc Sinh.genruntimeconfig.cache
+D:\Window Programming\Quan Ly Hoc Sinh\Quan Ly Hoc Sinh\obj\Debug\net6.0-windows\ref\Quan Ly Hoc Sinh.dll
