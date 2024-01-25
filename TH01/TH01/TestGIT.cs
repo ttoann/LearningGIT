@@ -11,5 +11,6 @@ namespace TH01
         public string name;
         public string version;
         public string description;
+        public string phone;
     }
 }
